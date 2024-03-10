@@ -1,0 +1,124 @@
+
+Started GET / for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 03:30:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 14 ms Request ID: [909e24a0-685a-43ad-a59a-0e47b9eb62d2]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 03:30:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [3e979d68-5be0-4553-a693-c91277960c16]
+
+Started GET /song for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 03:31:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [6186552f-d109-4470-a0b6-7767bc17630d]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:12:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:12:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 22 ms Request ID: [9761f733-d0ee-4f93-914e-7896a08d8475]
+
+Completed: 200 message:  Time response: 57 ms Request ID: [f3c46325-08de-45fb-84d4-5495480b887c]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:14:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"adsas","url":"asdasd","descripcion":"asdasdasd"}
+Completed: 500 message:  Time response: 5 ms Request ID: [f3cd4027-fd71-4380-b432-7d3dde00c7d6]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:14:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"adsas","url":"asdasd","descripcion":"asdasdasd"}
+Completed: 500 message:  Time response: 4 ms Request ID: [ee5612c9-5435-49e9-a04c-f510b851a276]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:21:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:21:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 56 ms Request ID: [aebd6171-9c62-449c-b5ac-e150d6040a98]
+
+Completed: 200 message:  Time response: 63 ms Request ID: [41ea1045-4994-4a3f-8d8d-12071dc91538]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:21:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:21:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 23 ms Request ID: [90819931-9bc4-49b1-98cf-358c3cffa8b6]
+
+Completed: 200 message:  Time response: 56 ms Request ID: [19d7d8c4-c8ba-4271-a3c3-0cf4d4b4e3a0]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:22:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:22:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 17 ms Request ID: [fc49a750-9e93-47a8-88f1-ceaaf67e183b]
+
+Completed: 200 message:  Time response: 70 ms Request ID: [638ddadd-9294-48c8-8242-516b67922588]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:37:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:37:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 53 ms Request ID: [8cf90fbc-0fa5-4610-b373-c9766dd21524]
+
+Completed: 200 message:  Time response: 60 ms Request ID: [385bec4c-d30b-47d7-b777-835069670d21]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:37:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:37:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 20 ms Request ID: [8761b887-04b5-411f-9404-ae053e58d8ad]
+
+Completed: 200 message:  Time response: 58 ms Request ID: [27ce20b0-91ed-4802-a979-90f71c1079b3]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:39:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"asdf","url":"asdasd","descripcion":"asdasd"}
+Completed: 500 message:  Time response: 6 ms Request ID: [a57fd71b-6229-4ea5-815e-b16375708393]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:40:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:40:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 17 ms Request ID: [12982064-b207-4df9-81dc-9ff9293605c4]
+
+Completed: 200 message:  Time response: 51 ms Request ID: [ecee015f-251f-4852-bdd9-4c8a537638dc]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:40:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"fasd","url":"asdasd","descripcion":"asdasd"}
+Completed: 500 message:  Time response: 5 ms Request ID: [94168ec0-9778-4b72-9813-b35f4b45e4e0]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:52:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:52:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [49824529-6508-4f60-ba42-395bc8ff2037]
+
+Completed: 200 message:  Time response: 74 ms Request ID: [128df347-fd09-4422-864f-f29d8772d1b3]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:52:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"asdasd","url":"asdasdasd","descripcion":"asdasd"}
+Completed: 201 message:  Time response: 15 ms Request ID: [d9d38ba1-cb9e-4450-bb4f-ff8f3940196d]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:52:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [e3ed8b85-37d5-487e-b5a9-99763c24eea9]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:52:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"asdasd","url":"asdasdasddsd","descripcion":"asdasdsdaasd"}
+Completed: 201 message:  Time response: 4 ms Request ID: [f1a4edfc-bf4e-45a7-b6b4-3db897bbfef0]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:52:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [ee11a065-8331-4558-a55c-c502edf43a25]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:52:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"asdasdasdasdasd","url":"asdasdasddsd","descripcion":"asdasdsdaasd"}
+Completed: 201 message:  Time response: 4 ms Request ID: [43092f00-628a-4b48-9995-5d30853de743]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:52:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [ce3276c0-7c8e-4e0a-8e38-86835d1e1a1a]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:52:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"asdasdasdasdasd","url":"asdasdasddsd","descripcion":"asdasdsdaasd"}
+Completed: 201 message:  Time response: 9 ms Request ID: [bb7d8c67-28bb-4538-82cd-f6e00ed604a2]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 06:52:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [f38c64d1-d3e3-4441-9c34-a7eb70dbf3fa]

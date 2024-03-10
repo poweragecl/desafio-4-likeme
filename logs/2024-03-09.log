@@ -1,0 +1,200 @@
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:18:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:18:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 69 ms Request ID: [a2d754fa-3472-4e2e-86e7-2becf793c32f]
+
+Completed: 200 message:  Time response: 84 ms Request ID: [9cd571d6-a92f-4d1a-9ecc-c910342dd51b]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:18:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"asd","url":"asd","descripcion":"asd"}
+Completed: 201 message:  Time response: 13 ms Request ID: [887f13e4-a6b5-45c0-8665-f52179a9954e]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:18:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 14 ms Request ID: [c998205e-577e-48c6-b73a-8f8d81241932]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:29:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [b7684f3d-efa4-4170-9056-217584aa6dc2]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:29:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [98185856-0a41-4768-8aa6-75f3504813f5]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:29:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [d1952edf-6e04-4486-be3d-55d81ff63249]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:29:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [cdccff48-c80e-4140-b441-4504095c7b14]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:29:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [d2d025d9-3b7e-4225-81b2-af2d0bd186ee]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:29:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [dc4b9fca-bd70-4cb2-9601-99e4aca99326]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:29:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [8931d815-8ead-4b41-b77c-7b0b45ef9394]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:29:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [03a9afca-396f-462a-94a3-fef4d488ed66]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:29:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [a414908c-3a6d-4da7-a58a-d31d123b31af]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:30:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 24 ms Request ID: [05f0bfbc-292e-456a-9863-1f70849e458e]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:30:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 15 ms Request ID: [6a33d737-a4de-42cb-a421-8505179ce0ea]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:30:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [dec75aef-b289-4972-b6c5-3587423ff541]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:30:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 13 ms Request ID: [3ea4c339-6aa3-4eff-943b-ec5971fb6a6d]
+
+Started DELETE /posts/6 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:30:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 2 ms Request ID: [808937ca-cc77-4db7-9304-4a73a3799d4a]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:30:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 14 ms Request ID: [ed12a60a-4ace-4b4f-9584-15f7603bafe0]
+
+Started DELETE /posts/6 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:30:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [9b5f6e6a-370a-474e-af47-7f6719a7245e]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:30:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 14 ms Request ID: [ad1367ae-88a3-45fe-bf23-4c1da1ac0d84]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:31:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:31:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 20 ms Request ID: [4a732aa0-f336-4b85-9d00-b13aabac8e94]
+
+Completed: 200 message:  Time response: 78 ms Request ID: [7adf1245-9532-4c78-85cb-16d019ae6a36]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:31:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 20 ms Request ID: [52d0db64-151f-438a-bf8c-1bd826030064]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 71 ms Request ID: [30e9a765-97e8-488f-929b-9e6ebf8c40cf]
+
+Completed: 200 message:  Time response: 78 ms Request ID: [eb443650-aafc-4c8e-937a-9f692c2eee7e]
+
+Started DELETE /posts/7 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 15 ms Request ID: [bd3a3b9b-3e87-4751-a86d-60f01e998812]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [6a0124e9-90e6-4f3d-8658-852eef23ad27]
+
+Started DELETE /posts/4 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [5d464024-61ce-4836-865a-f4234817810f]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [2cca9df4-dfcd-42ff-a239-a360b1d1957b]
+
+Started DELETE /posts/6 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 8 ms Request ID: [067886b7-7bf7-42ea-bde3-0185d3bd052a]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [d50b31f5-2f83-4796-b88b-f79b14b99edb]
+
+Started DELETE /posts/5 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 10 ms Request ID: [c15a816d-4a80-4de6-adff-f4e7e3962bab]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [6916f0b0-6bab-462a-8961-18860bd85966]
+
+Started DELETE /posts/3 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 8 ms Request ID: [fba2abde-e054-422e-a719-2db589f13c54]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [85feb845-cfd9-4d35-a5b3-34fd30f65ee1]
+
+Started DELETE /posts/2 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 10 ms Request ID: [4d52bdc5-21a9-4316-96e5-f7862898d148]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [7460d7eb-3cf8-40b5-882c-95e6021cddd4]
+
+Started DELETE /posts/1 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [6908ab59-d7a8-42ef-bcd3-51e467d060be]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [207b7fce-1d96-454d-ba53-1e844612a83f]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"sadasd","url":"asdsadas","descripcion":"sdaasdsd"}
+Completed: 201 message:  Time response: 9 ms Request ID: [a922a836-f11c-4a6c-ac4b-a015b896cb44]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [5c23cbc3-9730-453a-98b0-7e1ec1d3ef3f]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"sadasd","url":"asdsadas","descripcion":"sdaasdsd"}
+Completed: 201 message:  Time response: 8 ms Request ID: [01730b0d-0947-44f0-a669-0ff01d71e48e]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [973cf8b7-1ad9-41e6-8019-eedd7560d141]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"sadasd","url":"asdsadas","descripcion":"sdaasdsd"}
+Completed: 201 message:  Time response: 3 ms Request ID: [17e2f8d6-a6a4-4425-a39d-3bde9584f2f8]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [14f0b777-16d5-4bc8-92cb-ddd1692ccf6c]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"sadasd","url":"asdsadas","descripcion":"sdaasdsd"}
+Completed: 201 message:  Time response: 3 ms Request ID: [37598619-d4a5-49a3-b803-61746818a40e]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 05:41:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [1fa05fe9-7caf-4ac9-8421-d45c71bd9b04]
+
+Started DELETE /posts/11 for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 06:16:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 50 ms Request ID: [77f105ac-66ad-4afd-8615-b7cb6f041221]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sat Mar 09 2024 06:16:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [4e27be10-8c05-47a0-a3ad-b5f9df24c0ff]

@@ -1,0 +1,16 @@
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 21:13:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 21:13:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 82 ms Request ID: [534eda79-7a38-4bed-a435-9fee8028a31b]
+
+Completed: 200 message:  Time response: 93 ms Request ID: [6ed0651f-d475-4135-a699-6c224081468d]
+
+Started POST /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 21:14:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"fsd","url":"sdf","descripcion":"sdf"}
+Completed: 201 message:  Time response: 47 ms Request ID: [40aa3d7d-3ad0-4489-ae6d-fdce9f4be77c]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 21:14:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 12 ms Request ID: [14bc8727-aa16-43a4-a258-4af2c3aed996]
